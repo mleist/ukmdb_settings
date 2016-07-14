@@ -23,7 +23,7 @@ test_requirements = [
 
 setup(
     name='ukmdb_settings',
-    version='version='version='0.0.1''',
+    version='0.0.1',
     description="Settings module in context of UKMDB.",
     long_description=readme + '\n\n' + history,
     author="Markus Leist",
