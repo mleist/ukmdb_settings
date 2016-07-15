@@ -12,6 +12,14 @@ UKMDB Settings
         :target: https://readthedocs.org/projects/ukmdb_settings/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://img.shields.io/pypi/l/ukmdb_settings.svg
+
+.. image:: https://img.shields.io/pypi/pyversions/ukmdb_settings.svg
+
+.. image:: https://img.shields.io/pypi/status/ukmdb_settings.svg
+
+.. image:: https://img.shields.io/pypi/dm/ukmdb_settings.svg
+
 
 Settings module in context of UKMDB.
 
